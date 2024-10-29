@@ -23,3 +23,5 @@ go.work.sum
 
 # env file
 .env
+*.swp
+cmd/wasm/wazero/cbor2mapd-w0/cbor2mapd-w0
